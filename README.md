@@ -2,13 +2,13 @@
 
 A minimalist dashboard app built with Expo Router and React Native. Features authentication, product management, and a clean white/gray UI design.
 
-![login](./public/screenshots/login.png)
-![home](./public/screenshots/home.png)
-![account](./public/screenshots/account.png)
-![products](./public/screenshots/product-list.png)
-![detail](./public/screenshots/detail.png)
-![delete](./public/screenshots/delete.png)
-![update](./public/screenshots/update.png)
+![login](./public/screenshots/login.jpg)
+![home](./public/screenshots/home.jpg)
+![account](./public/screenshots/account.jpg)
+![products](./public/screenshots/product-list.jpg)
+![detail](./public/screenshots/detail.jpg)
+![delete](./public/screenshots/delete.jpg)
+![update](./public/screenshots/update.jpg)
 
 ## ✨ Features
 
