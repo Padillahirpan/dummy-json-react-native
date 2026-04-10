@@ -2,14 +2,6 @@
 
 A minimalist dashboard app built with Expo Router and React Native. Features authentication, product management, and a clean white/gray UI design.
 
-![login](./public/screenshots/login.jpg)
-![home](./public/screenshots/home.jpg)
-![account](./public/screenshots/account.jpg)
-![products](./public/screenshots/product-list.jpg)
-![detail](./public/screenshots/detail.jpg)
-![delete](./public/screenshots/delete.jpg)
-![update](./public/screenshots/update.jpg)
-
 ## ✨ Features
 
 - 🔐 **Secure Authentication** - Login with dummyjson API, token persistence (SecureStore on mobile, localStorage on web)
@@ -61,49 +53,22 @@ More test users available at [dummyjson.com/users](https://dummyjson.com/users)
 ## 📸 Screenshots
 
 ### Login Screen
-<img src="screenshots/login.png" alt="Login Screen" width="300"/>
+<img src="screenshots/login.png" alt="Login Screen" width="200"/>
 
 ### Home Screen
-<img src="screenshots/home.png" alt="Home Screen" width="300"/>
+<img src="screenshots/home.png" alt="Home Screen" width="200"/>
 
 ### Products List
-<img src="screenshots/products.png" alt="Products List" width="300"/>
+<img src="screenshots/products.png" alt="Products List" width="200"/>
 
 ### Product Details
-<img src="screenshots/product-detail.png" alt="Product Details" width="300"/>
+<img src="screenshots/product-detail.png" alt="Product Details" width="200"/>
 
 ### Add/Edit Product Form
-<img src="screenshots/product-form.png" alt="Product Form" width="300"/>
+<img src="screenshots/product-form.png" alt="Product Form" width="200"/>
 
 ### Account Screen
-<img src="screenshots/account.png" alt="Account Screen" width="300"/>
-
----
-
-### How to Add Screenshots
-
-1. Create a `screenshots` folder in the project root:
-   ```bash
-   mkdir screenshots
-   ```
-
-2. Take screenshots from the app:
-   - **Web**: Press `w` to open in browser, then use screenshot tool
-   - **Android Emulator**: Use Android Studio's screenshot tool
-   - **iOS Simulator**: Press `Cmd + Shift + 4` on Mac
-   - **Device**: Use your phone's screenshot function
-
-3. Save images as:
-   - `login.png` - Login screen
-   - `home.png` - Home screen with user info
-   - `products.png` - Product list with search
-   - `product-detail.png` - Product details page
-   - `product-form.png` - Add/edit product form
-   - `account.png` - Account profile screen
-
-4. Place them in the `screenshots/` folder
-
-5. Update this README with your actual screenshots!
+<img src="screenshots/account.png" alt="Account Screen" width="200"/>
 
 ---
 
@@ -203,8 +168,6 @@ npm install -g eas-cli
 eas login
 eas build --platform android --profile preview
 ```
-
-See [SHARE_WITH_FRIEND.md](./SHARE_WITH_FRIEND.md) for detailed instructions.
 
 ## 🎨 Customization
 
