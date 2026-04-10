@@ -5,25 +5,35 @@
 
 import { Platform } from 'react-native';
 
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
+// Minimalist white and gray color scheme
+const grayPrimary = '#6B7280';
+const grayDark = '#1F2937';
+const grayMedium = '#9CA3AF';
+const grayLight = '#E5E7EB';
+const grayBg = '#F9FAFB';
 
 export const Colors = {
   light: {
-    text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
+    text: grayDark,              // #1F2937 - Dark gray for text
+    background: '#fff',          // #FFFFFF - White background
+    tint: grayPrimary,           // #6B7280 - Medium gray primary
+    icon: grayMedium,            // #9CA3AF - Medium gray for icons
+    tabIconDefault: '#D1D5DB',   // Light gray for inactive tabs
+    tabIconSelected: grayPrimary,// #6B7280 - Gray for active tab
+    border: grayLight,           // #E5E7EB - Light gray borders
+    card: '#fff',                // White card background
+    inputBg: grayBg,             // #F9FAFB - Light gray input background
   },
   dark: {
     text: '#ECEDEE',
     background: '#151718',
-    tint: tintColorDark,
-    icon: '#9BA1A6',
+    tint: grayPrimary,
+    icon: grayMedium,
     tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
+    tabIconSelected: grayPrimary,
+    border: grayLight,
+    card: '#1C1E1F',
+    inputBg: '#1C1E1F',
   },
 };
 
