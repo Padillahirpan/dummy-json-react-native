@@ -53,22 +53,22 @@ More test users available at [dummyjson.com/users](https://dummyjson.com/users)
 ## 📸 Screenshots
 
 ### Login Screen
-<img src="screenshots/login.png" alt="Login Screen" width="200"/>
+<img src="public/screenshots/login.jpg" alt="Login Screen" width="200"/>
 
 ### Home Screen
-<img src="screenshots/home.png" alt="Home Screen" width="200"/>
+<img src="public/screenshots/home.jpg" alt="Home Screen" width="200"/>
 
 ### Products List
-<img src="screenshots/products.png" alt="Products List" width="200"/>
+<img src="public/screenshots/product-list.jpg" alt="Products List" width="200"/>
 
 ### Product Details
-<img src="screenshots/product-detail.png" alt="Product Details" width="200"/>
+<img src="public/screenshots/detail.jpg" alt="Product Details" width="200"/>
 
 ### Add/Edit Product Form
-<img src="screenshots/product-form.png" alt="Product Form" width="200"/>
+<img src="public/screenshots/update.jpg" alt="Product Form" width="200"/>
 
 ### Account Screen
-<img src="screenshots/account.png" alt="Account Screen" width="200"/>
+<img src="public/screenshots/account.jpg" alt="Account Screen" width="200"/>
 
 ---
 
